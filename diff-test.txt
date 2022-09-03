@@ -1,8 +1,5 @@
 A
 B
-<<<<<<< HEAD
 C
 D
 E
-=======
->>>>>>> parent of c5823ff (C문자 추가)
